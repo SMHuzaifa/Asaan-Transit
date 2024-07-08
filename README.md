@@ -1,16 +1,19 @@
-# test_map
+# Asaan Transit
 
 A new Flutter project.
 
-## Getting Started
+## Features and Functionality
 
-This project is a starting point for a Flutter application.
+### 1. Real-Time Transit Updates
+- Integrate with a free public transit API (e.g., Google Transit or OpenTransport API) to provide real-time updates on transport schedules.
+- Display arrival times and delays for a selected transit route.
 
-A few resources to get you started if this is your first Flutter project:
+### 2. Route Planning and Navigation
+- Implement a simple route planning feature that allows users to find the best route from their current location to a destination using public transportation.
+- Provide basic step-by-step navigation instructions.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 3. Nearby Stops and Stations
+- Use geolocation services to identify and display nearby public transit stops and stations on a map.
+- Show basic information such as the name of the stop and the transit lines available.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+

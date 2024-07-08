@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="sk.eyJ1IjoiaHV6YWlmYTc4NiIsImEiOiJjbHh4aXEzMnYxa2s1MmtzZDN2dmVxa3R5In0._P3ORpyYa9JnG4clEz678w" translatable="false" tools:ignore="UnusedResources">ADD_MAPBOX_ACCESS_TOKEN_HERE</string>
+</resources>
